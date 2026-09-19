@@ -1,5 +1,3 @@
-SPRINT_1.txt
-
 Section 1: Target Audience & Market Focus
 
 Primary Persona: Direct-to-Consumer Retail Shoppers (individual consumers seeking apparel, footwear, and fashion accessories).
