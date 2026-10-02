@@ -339,24 +339,3 @@ Sprint 2 deliberately does not implement:
 - complete shopper checkout
 
 Sprint 3 should consume these catalog tables and SKU identities. Its first backlog items are dynamic specifications, assets, public catalog reads, publication rules, and catalog-to-cart readiness.
-
-## 9. Repository structure
-
-```text
-.
-├── docs/
-│   └── SPRINT_2.md
-├── migrations/
-│   └── 001_catalog.sql
-├── src/
-│   ├── auth.js
-│   ├── db.js
-│   ├── migrate.js
-│   ├── seed.js
-│   └── server.js
-├── tests/
-│   └── catalog.test.js
-├── .env.example
-├── package.json
-└── README.md
-```
